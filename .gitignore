@@ -13,5 +13,9 @@ user_data_dir/
 4_APIs/4_APIs_cache/
 5_Interactive_Web_Pages/5_Interactive_Web_Pages_new_cache/
 2V_participants.xlsx
+
+.DS_Store
+
 abstracts
 data/apsa2023
+
